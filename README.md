@@ -1,6 +1,25 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 BTJ Academy FroneEnd Class
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Implementing Nuxt Concept :
+
+1. Directory Stucture
+2. Components
+3. Pages Routing
+4. Layouting
+
+Post-Test ini akan terdiri dari 3 page utama diantaranya :
+
+1. `index.vue` yang merupakan page route utama beisi about page pada class sebelumnya
+2. `login.vue` yang merupakan page login untuk beralih ke halaman "CMS"
+3. `dashboard.vue` adalah halaman CMS itu sendiri
+
+Untuk Layout terdiri dari :
+
+1. `about.vue` untuk layoutiing halaman index
+2. `LoginLayout.vue` untuk layouting halaman login
+3. `default.vue` layouting default untuk navigasi pada halaman CMS/`dashboard.vue`
+
+# Nuxt 3 Minimal Starter
 
 ## Setup
 
